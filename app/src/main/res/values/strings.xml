@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TouristApp</string>
+    <string name="attraction_title_hint">Enter a title for attraction.</string>
+    <string name="attraction_title_label">Title</string>
+    <string name="attraction_details_label">Details</string>
+    <string name="attraction_seen_label">Seen</string>
+</resources>
